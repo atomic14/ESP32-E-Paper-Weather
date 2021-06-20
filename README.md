@@ -2,7 +2,7 @@
 
 I've been playing around with one of these ePaper displays. I've got the LILYGO 2.7" E-Paper Plus Module. The classic thing that people seem to do is get a weather display up and running - so I thought I would do the same.
 
-[![Demo Video](https://img.youtube.com/vi/VnhYpI8I-oE/0.jpg)](https://www.youtube.com/watch?v=VnhYpI8I-oE)
+[![Demo Video](https://img.youtube.com/vi/_O1FjJH591s/0.jpg)](https://www.youtube.com/watch?v=_O1FjJH591s)
 
 There's a really nice library by G6EJD that everyone seems to be using. This already has support for a whole bunch of ePaper displays including the Waveshare 2.7 inch display which is the one that is used on the LILYGO board I have.
 
